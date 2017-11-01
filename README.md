@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Rudy McComb on GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/rudymccomb/rudysite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
